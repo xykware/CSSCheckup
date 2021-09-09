@@ -1,0 +1,51 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+footer
+{
+    background-color: #222222;
+    padding: 1px;
+    margin: 20px;
+    border: white;
+    border-style: solid;
+    bottom: 0px;
+    right: 0px;
+    position: fixed;
+}
+.yt-video
+{
+    width: 320px;
+    height: 240px;
+}
+#y2k
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+#logo
+{
+    position: absolute;
+    left: 120px;
+}
+#logo-image
+{
+    position: absolute;
+}
+a
+{
+    color: #999999;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #DDDDDD;
+}
+div
+{
+    position: relative;
+    top: 120px;
+    margin: 30px;
+    margin-bottom: 60px;
+}
